@@ -109,7 +109,7 @@ public class Token {
     private int baslangicIndex; // Kaynak metin içindeki token’ın başladığı karakterin indeksini saklar.
     private int bitisIndex; // Kaynak metin içindeki token’ın bittiği karakterin bir sonraki indeksi saklar.
     //Kurucu Metotlar
-    public Token() {} // Boş kurucu: Önce nesneyi oluşturup daha sonra alanları setter metotlarıyla atamak için eklenmiştir.
+    public Token() {} // Önce nesneyi oluşturup daha sonra alanları setter metotlarıyla atamak için eklenmiştir.
     /* Parametreli kurucu: Dört parametreyle tüm alanları baştan atar.
       tokenTur: Bu token’ın türünü belirtir (enum Tur).
       icerik: Token’ın kaynak koddaki ham metni.

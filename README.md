@@ -52,13 +52,11 @@ java ArayuzTasarimi
 Demo video bağlantısı:
 [Video için tıklayın.](https://www.youtube.com/watch?v=ehHHEId7my0)
 
-### Makale
-
 ### Dökümantasyon
 
 [Dökümantasyon dosyasına buradan ulaşabilirsiniz.](./documentation.md)
 
-### Makale Linki:
+### Makale
 [Makale](https://medium.com/@burakege0000/java-syntax-highlighter-with-real-time-parsing-b15a94b860ee)
 
 ---

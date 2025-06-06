@@ -607,9 +607,9 @@ Yeni Pencerede Ağaç Görünümü Açılır
 
 ### Arayüz Ekran Görüntüleri
 
-- ![Lexical Analiz Görseli](screenshots/lexical.png) : Token'ları gösterir
-- ![Parser Ağacı Görseli](screenshots/parser.png) : Parse ağacını gösterir
-- ![Arayüz Görseli](screenshots/gui.png) : Kod editöründe renklendirilmiş metin
+- ![Lexical Analiz Görseli](screenshots/lexical.png)
+- ![Parser Ağacı Görseli](screenshots/parser.png)
+- ![Arayüz Görseli](screenshots/gui.png) 
 
 ---
 

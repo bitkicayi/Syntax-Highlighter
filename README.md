@@ -59,7 +59,7 @@ Demo video bağlantısı:
 [Dökümantasyon dosyasına buradan ulaşabilirsiniz.](./documentation.md)
 
 ### Makale Linki:
-[Eklenecek]
+[Makale](https://medium.com/@burakege0000/java-syntax-highlighter-with-real-time-parsing-b15a94b860ee)
 
 ---
 

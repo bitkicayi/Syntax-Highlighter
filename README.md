@@ -50,17 +50,15 @@ java ArayuzTasarimi
 ### Demo Videosu
 
 Demo video bağlantısı:
-[Eklenecek]
+[Video için tıklayın.](https://www.youtube.com/watch?v=ehHHEId7my0)
 
 ### Makale
-
-[Eklenecek]
 
 ### Dökümantasyon
 
 [Dökümantasyon dosyasına buradan ulaşabilirsiniz.](./documentation.md)
 
-Makale Linki:
+### Makale Linki:
 [Eklenecek]
 
 ---

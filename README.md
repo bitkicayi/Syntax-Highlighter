@@ -1,6 +1,6 @@
 # Java Syntax Highlighter with Real-Time Parsing
 
-Bu proje, Java programlama dili için gerçek zamanlı çalışan bir sözdizimi vurgulayıcı ve sözdizimi analizörü içerir. Swing tabanlı arayüz ile kullanıcı dostu bir editör sunar. Program; `Token` `Lexer`, `Parser`, `Renklendirme` ve `ArayuzTasarimi` bileşenlerinden oluşur.
+Bu proje, Java programlama dili için gerçek zamanlı çalışan bir sözdizimi vurgulayıcı ve sözdizimi analizörü içerir. Swing tabanlı arayüz ile kullanıcı dostu bir editör sunar. Program; `Token`, `Lexer`, `Parser`, `Renklendirme` ve `ArayuzTasarimi` bileşenlerinden oluşur.
 
 ### Özellikler
 

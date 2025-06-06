@@ -52,7 +52,7 @@ Bu proje, aşağıdaki temel kriterleri sağlamak üzere geliştirilmiştir:
 
 ---
 
-### Demo Kullanım Senaryosu (Kısa)
+### Demo Kullanım Senaryosu
 
 Kullanıcı, uygulamayı çalıştırdığında karşısına örnek bir Java kodu yüklü olarak gelen bir arayüz açılır. Kullanıcı bu kodu değiştirerek ya da sıfırdan yazarak:
 
